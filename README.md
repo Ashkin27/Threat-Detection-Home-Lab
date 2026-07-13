@@ -38,3 +38,10 @@ troubleshooting · Windows/Linux administration · Incident documentation
 - MITRE ATT&CK technique mapping
 - Automated alerting (email/Slack webhook)
 
+## Author
+
+Ashkin PS
+
+## License
+
+This project is developed for educational and academic purposes.
