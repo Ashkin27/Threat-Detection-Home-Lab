@@ -38,6 +38,7 @@ troubleshooting · Windows/Linux administration · Incident documentation
 - MITRE ATT&CK technique mapping
 - Automated alerting (email/Slack webhook)
 
+
 ## Author
 
 Ashkin PS
